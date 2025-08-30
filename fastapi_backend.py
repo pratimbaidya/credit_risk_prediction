@@ -6,7 +6,7 @@ import joblib
 from pydantic_model import UserInput
 
 try:
-    model = joblib.load('stacking_model.pkl')
+    model = joblib.load('stacking_model.joblib')
     print("Stacking model loaded successfully.")
 except FileNotFoundError:
     model = None
