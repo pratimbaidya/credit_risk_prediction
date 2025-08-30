@@ -9,3 +9,6 @@
 /crpenv
 /GiveMeSomeCredit
 /stacking_model.joblib
+/best_lgbmc.joblib
+/best_xgbc.joblib
+/best_rfc.joblib
