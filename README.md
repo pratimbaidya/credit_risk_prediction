@@ -3,7 +3,7 @@
 ## About the Data
 The dataset for this project is from the Kaggle competition, "Give Me Some Credit." It contains historical data on 150,000 borrowers. The features have been anonymized and represent various aspects of a person's financial behavior and history.
 
-[link](https://www.kaggle.com/competitions/GiveMeSomeCredit/data)
+DataSet - [link](https://www.kaggle.com/competitions/GiveMeSomeCredit/data)
 
 | Feature Name | Description |
 | :--- | :--- |
