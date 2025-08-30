@@ -1,5 +1,0 @@
-outs:
-- md5: 549c050d632ce8a0d65e858dd51d2a34
-  size: 9082554
-  hash: md5
-  path: stacking_model.pkl
