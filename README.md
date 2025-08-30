@@ -32,6 +32,6 @@ Some of the column have very big outliers. I used quantile and clip method to so
 
 EDA to extract feature relations and distributions. Graphing plots using Matplotlib and Seaborn.
 
-Experimente with Balanced Bagging Classifier and Cost Sensitive Learning to handle Imbalance in the dataset. Used Stacking Classifier to get the best result. RandomForest, XGBoost, LightGBM base and Logistic Regression as Meta model.
+Experimente with Balanced Bagging Classifier and Cost Sensitive Learning to handle Imbalance {0=139974, 1=10026} in the dataset. Used Stacking Classifier to get the best result. RandomForest, XGBoost, LightGBM base and Logistic Regression as Meta model.
 
 Achived AUC score of 0.87 and the Score on Kaggle is 0.865
