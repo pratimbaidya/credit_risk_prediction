@@ -1,0 +1,5 @@
+outs:
+- md5: 45bf2072238a6f20ecf053ea2f5cb9ba
+  size: 1784201
+  hash: md5
+  path: best_rfc.pkl

@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = D:/Data Science/Projects/Credit_Risk_Analysis

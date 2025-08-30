@@ -1,0 +1,6 @@
+outs:
+- md5: d8308d62e319b0ceaed79f605fc2e17e.dir
+  size: 835752528
+  nfiles: 29025
+  hash: md5
+  path: crpenv
